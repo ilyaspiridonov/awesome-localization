@@ -124,6 +124,7 @@ Products for connecting engines and choosing which provider handles a translatio
 Platforms for coordinating source content, translators, reviewers, and delivery across projects.
 
 - [Crowdin](https://crowdin.com/) - Localization management platform for software and content. Sync source files with Git repositories and return completed translations through pull requests.
+- [GitLocalize](https://gitlocalize.com/) - Continuous localization service for GitHub repositories. Translate Markdown, Jupyter notebooks, and other repository files segment by segment, then send moderator-approved translations back as pull requests.
 - [Lokalise Expert](https://docs.lokalise.com/en/articles/1400427-what-is-lokalise) - Localization management platform for software teams. Attach screenshots to translation keys on Growth plans and above so translators can see where strings appear.
 - [Phrase TMS](https://phrase.com/platform/tms/) - Cloud translation management system for content and file workflows. Assign jobs across vendors and track reviews, translation memories, and terminology in one workspace.
 - [Smartcat](https://www.smartcat.com/translation-management-system/) - Translation management platform with a linguist marketplace. Organize projects, assign reviewers, and manage linguist contracting and payments in the platform.
