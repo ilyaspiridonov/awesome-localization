@@ -123,6 +123,7 @@ Products for connecting engines and choosing which provider handles a translatio
 
 Platforms for coordinating source content, translators, reviewers, and delivery across projects.
 
+- [anylocale](https://anylocale.com/) - Localization platform for iOS and Android app strings. Push and pull Xcode string catalogs and Android strings.xml files, draft AI translations against a glossary and per-key length limits, and deliver only person-verified strings over the air.
 - [Crowdin](https://crowdin.com/) - Localization management platform for software and content. Sync source files with Git repositories and return completed translations through pull requests.
 - [GitLocalize](https://gitlocalize.com/) - Continuous localization service for GitHub repositories. Translate Markdown, Jupyter notebooks, and other repository files segment by segment, then send moderator-approved translations back as pull requests.
 - [Lokalise Expert](https://docs.lokalise.com/en/articles/1400427-what-is-lokalise) - Localization management platform for software teams. Attach screenshots to translation keys on Growth plans and above so translators can see where strings appear.
