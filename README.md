@@ -123,6 +123,7 @@ Products for connecting engines and choosing which provider handles a translatio
 
 Platforms for coordinating source content, translators, reviewers, and delivery across projects.
 
+- [App Store Localizer](https://asolocalization.com) - Store-listing localization tool for iOS apps. Paste a public App Store URL to translate the title, subtitle, keywords, description, and screenshots into 20-plus locales, then publish the set to App Store Connect. Handles store-listing text and screenshots only, not in-app strings.
 - [Crowdin](https://crowdin.com/) - Localization management platform for software and content. Sync source files with Git repositories and return completed translations through pull requests.
 - [GitLocalize](https://gitlocalize.com/) - Continuous localization service for GitHub repositories. Translate Markdown, Jupyter notebooks, and other repository files segment by segment, then send moderator-approved translations back as pull requests.
 - [Lokalise Expert](https://docs.lokalise.com/en/articles/1400427-what-is-lokalise) - Localization management platform for software teams. Attach screenshots to translation keys on Growth plans and above so translators can see where strings appear.
