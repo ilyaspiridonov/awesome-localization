@@ -73,6 +73,7 @@ Computer-assisted translation workspaces for working through bilingual content w
 - [CafeTran Espresso](https://www.cafetran.com/) - CAT tool for Windows, macOS, and Linux. Work with bilingual files and packages from other CAT tools while reusing translation memories.
 - [memoQ translator pro](https://www.memoq.com/product/memoq-translator-pro/) - Windows CAT tool for professional translators. Reuse translation memory with context matching and align reference documents with LiveDocs.
 - [OmegaT](https://omegat.org/) - Desktop translation memory tool ([OSS](https://sourceforge.net/p/omegat/code/ci/master/tree/release/OmegaT-license.txt?format=raw)). Translate projects containing multiple files with fuzzy matching and TMX memory exchange.
+- [RuneTranslate](https://runetranslate.com/) - Desktop game translation app for Windows, macOS, and Linux. Extract text from RPG Maker, Ren'Py, Unity, and other game engines, review it in a translation editor, and export a playable translated build.
 - [Trados Studio](https://www.trados.com/product/studio/) - Desktop CAT application with an included cloud browser editor. Translate and review content using translation memories and terminology, then move supported projects between desktop and cloud.
 
 ## Human Translation and Post-Editing Tools and APIs
